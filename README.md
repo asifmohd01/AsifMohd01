@@ -7,6 +7,8 @@
 <div align="center" style="display: flex; space-between: 20px; gap: 30px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=AsifMohd01&show_icons=true&count_private=true&theme=dracula&hide_border=true" width="500" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsifMohd01&layout=compact&langs_count=5&theme=dracula&hide_border=true" width="300" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AsifMohd01&theme=dracula" />
+
 </div>
 
 </br>
