@@ -1,8 +1,10 @@
 <div align="center">
   
-# Hi there, I'm Asif Mohd! 👋
+# Hi there, I'm Asif Mohd! From Jammu👋
 
+<!-- Removed Software Engineer from subtitle and added it as separate line -->
 ### 🚀 Recent Graduate | Full-Stack Developer
+### 💻 Software Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Recent+Graduate+Software+Engineer;Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things;Ready+to+Make+an+Impact!" alt="Typing SVG" />
 
@@ -27,27 +29,7 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 📫 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifmohd3840@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifmohd01)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifmohd01)
-
-### 📍 Location
-🏠 **Originally from**: Jammu, J&K, India  
-🏢 **Currently in**: Bangalore, India
-
-### 📞 Contact
-📧 **Email**: asifmohd3840@gmail.com  
-📱 **Phone**: +91 8491040620
-
-</td>
-<td width="50%" valign="top">
-
+<!-- Moved Technical Skills out of table and aligned left -->
 ## 🛠️ Technical Skills
 
 ### 💻 **Languages**
@@ -75,10 +57,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -160,6 +138,27 @@
 - 👯 Looking to collaborate on open source projects
 - 🤔 Exploring opportunities in software development roles
 - 💬 Ask me about web development, problem-solving, or anything tech-related!
+
+---
+
+<!-- Moved Let's Connect section to the end -->
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifmohd3840@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifmohd01)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifmohd01)
+
+### 📍 Location
+🏠 **Originally from**: Jammu, J&K, India  
+🏢 **Currently in**: Bangalore, India
+
+### 📞 Contact
+📧 **Email**: asifmohd3840@gmail.com  
+📱 **Phone**: +91 8491040620
+
+</div>
 
 ---
 
