@@ -18,11 +18,22 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifmohd01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohd01&layout=compact&langs_count=8&theme=tokyonight"/>
+<!-- Updated language stats to exclude Python and better represent JavaScript/React work -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohd01&layout=compact&langs_count=8&theme=tokyonight&hide=python,jupyter%20notebook&exclude_repo=data-analysis,python-scripts"/>
 
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifmohd01&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<!-- Added manual language representation to show actual skills -->
+### 🎯 My Primary Tech Focus
+<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-60%25-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-30%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-20%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
 
 </div>
 
@@ -156,16 +167,6 @@
 ### 📞 Contact
 📧 **Email**: asifmohd3840@gmail.com  
 📱 **Phone**: +91 8491040620
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"The best way to predict the future is to create it."* - Peter Drucker
-
-<img src="https://komarev.com/ghpvc/?username=asifmohd01&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
