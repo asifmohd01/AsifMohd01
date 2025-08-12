@@ -17,9 +17,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifmohd01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<!-- Restored Python in language stats while keeping better representation -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohd01&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifmohd01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=repositories"/>
+<!-- Added show_repositories parameter to display total repositories count -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohd01&layout=compact&langs_count=6&theme=tokyonight&card_width=320&hide=jupyter%20notebook,tex"/>
+<!-- Added parameters to better represent language distribution and exclude large files that skew results -->
 
 </div>
 
