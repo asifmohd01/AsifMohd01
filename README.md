@@ -2,7 +2,7 @@
   
 # Hi there, I'm Asif Mohd! 👋
 
-### 🚀 Recent Graduate | Software Engineer | Full-Stack Developer
+### 🚀 Recent Graduate | Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Recent+Graduate+Software+Engineer;Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things;Ready+to+Make+an+Impact!" alt="Typing SVG" />
 
@@ -27,6 +27,61 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifmohd3840@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifmohd01)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifmohd01)
+
+### 📍 Location
+🏠 **Originally from**: Jammu, J&K, India  
+🏢 **Currently in**: Bangalore, India
+
+### 📞 Contact
+📧 **Email**: asifmohd3840@gmail.com  
+📱 **Phone**: +91 8491040620
+
+</td>
+<td width="50%" valign="top">
+
+## 🛠️ Technical Skills
+
+### 💻 **Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🎨 **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### ⚙️ **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🔧 **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🙋‍♂️ About Me
 
 <div align="center">
@@ -37,7 +92,8 @@
 
 🌟 **Who I Am**: A motivated Software Engineer fresh out of college with a strong passion for developing optimized and user-friendly software solutions
 
-📍 **Location**: Bangalore, India  
+🏠 **Origin**: Originally from the beautiful valleys of Jammu, J&K, India  
+📍 **Current Location**: Bangalore, India  
 🎓 **Education**: B.Tech in Information Science & Engineering (CGPA: 7.8)  
 🏛️ **University**: University Visvesvaraya College of Engineering, Bengaluru  
 
@@ -54,42 +110,34 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Featured Projects
 
-<div align="center">
+### 🎯 **FocusLearn - Personalized Learning Platform**
+**Tech Stack**: React.js, TailwindCSS, Express.js, MySQL2, JWT  
+**Problem Solved**: Learners using YouTube for skill development often get distracted by recommendations, lack progress tracking, and struggle with note retention.
 
-### 💻 **Programming Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+**Key Features**:
+- 📚 Custom journey creation with individual YouTube videos or automatic generation from playlist URLs
+- 📝 Rich text editor for notes with download option
+- 📊 Real-time progress tracking and public journey forking
+- 🎯 Distraction-free learning environment
 
-### 🎨 **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+🔗 **Live Demo**: [Add your deployed link here]  
+📂 **Repository**: [View on GitHub](https://github.com/asifmohd01/focuslearn)
 
-### ⚙️ **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+---
 
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 📱 **Social Media Website**
+**Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), TailwindCSS, JWT
 
-### 🔧 **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Key Features**:
+- 👥 Users can create posts, like, comment, and share content
+- 📖 Real-time story posting and viewing
+- 🔐 Secure JWT authentication system
+- 📱 Fully responsive design built with React and TailwindCSS
 
-### 🚀 **Specializations**
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
-
-</div>
+🔗 **Live Demo**: [Add your deployed link here]  
+📂 **Repository**: [View on GitHub](https://github.com/asifmohd01/social-media)
 
 ---
 
@@ -116,12 +164,6 @@
 ---
 
 <div align="center">
-
-## 📫 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifmohd3840@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifmohd01)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifmohd01)
 
 ### 💡 *"The best way to predict the future is to create it."* - Peter Drucker
 
