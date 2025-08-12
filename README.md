@@ -17,23 +17,22 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifmohd01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=repositories"/>
-<!-- Added show_repositories parameter to display total repositories count -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohd01&layout=compact&langs_count=6&theme=tokyonight&card_width=320&hide=jupyter%20notebook,tex"/>
-<!-- Added parameters to better represent language distribution and exclude large files that skew results -->
+<!-- Fixed GitHub stats URL by removing incorrect show=repositories parameter -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifmohd01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!-- Fixed language stats to hide Python and other files that skew results -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohd01&layout=compact&langs_count=6&theme=tokyonight&card_width=320&hide=python,jupyter%20notebook,tex"/>
 
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifmohd01&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<!-- Updated manual language representation to include Python while highlighting React focus -->
+<!-- Updated tech focus to emphasize JavaScript/React without Python showing as primary -->
 ### 🎯 My Primary Tech Focus
 <div align="center">
 <img src="https://img.shields.io/badge/React-Primary-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-Core-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-Foundation-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack-Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/>
 </div>
 
 </div>
