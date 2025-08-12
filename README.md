@@ -1,89 +1,140 @@
-<h2 align="left">Hi 👋! My name is Asif Mohd, and I'm a recent B.Tech graduate in Information Science and Engineering from the University Visvesvaraya College of Engineering, Bengaluru. I'm from Jammu, India.</h2>
+<div align="center">
+  
+# Hi there, I'm Asif Mohd! 👋
 
-<br><br>
+### 🚀 Passionate Software Engineer | Problem Solver | Full-Stack Developer
 
-<div align="center" style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsifMohd01&show_icons=true&count_private=true&theme=dracula&hide_border=true" width="500" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsifMohd01&layout=compact&langs_count=5&theme=dracula&hide_border=true" width="300" height="150" alt="Top Languages" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+
 </div>
 
-<br><br><br>
+---
 
-<img align="right" alt="coding" width="500" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: 80px;"/>
+<div align="center">
+  
+## 📊 GitHub Stats & Languages
 
-<h3 align="left">💡 About Me</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifmohd01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohd01&layout=compact&langs_count=8&theme=tokyonight"/>
 
-- 🎓 Recent graduate (2025) in **Information Science and Engineering**.  
-- 💻 Passionate about **developing optimized, user-friendly software solutions**.  
-- 🚀 Interested in **full-stack development** and building impactful projects.  
-- 📌 Always eager to learn new technologies and improve problem-solving skills.  
-
-<br>
-
-<h3 align="left">🛠 My Skills</h3>
-
-- **Languages:** C++, Python  
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap 5, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, Postman, Locust, Hurl, Apache Benchmark (ab)  
-- **Other:** JWT Authentication, REST APIs  
-
-<br>
-
-<h3 align="left">📂 Projects</h3>
-
-- **FocusLearn** *(React, Tailwind CSS, Express.js, MySQL2, JWT)*  
-  Personalized learning platform to avoid distractions and track progress.  
-  - Custom learning journeys from YouTube playlists  
-  - Rich text notes with download option  
-  - Real-time progress tracking and public journey forking  
-
-- **Social Media Website** *(MERN Stack, Tailwind CSS, JWT)*  
-  Responsive platform for creating posts, stories, likes, comments, and shares.  
-  - Real-time interactions with secure JWT login  
-  - Modern, responsive UI with Tailwind CSS  
-
-<br>
-
-<h3>🛠 Languages & Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
 </div>
 
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifmohd01&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<h3>📱 Connect with Me</h3>
-<div align="left">
-  <a href="mailto:asifmohd3840@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/asifmohd55/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/AsifMohd01">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
-  </a>
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+\`\`\`javascript
+const asif = {
+    location: "Bangalore, India",
+    education: "B.Tech in Information Science & Engineering",
+    currentRole: "Software Engineer",
+    passions: ["Full-Stack Development", "Problem Solving", "Learning New Technologies"],
+    
+    workingOn: "Building optimized and user-friendly software solutions",
+    learning: "Advanced React patterns and cloud technologies",
+    collaborating: "Open source projects and innovative web applications",
+    
+    funFact: "I love turning complex problems into simple, elegant solutions! 🎯"
+};
+\`\`\`
+
+🎓 **Education**: B.Tech in Information Science & Engineering (CGPA: 7.8) from University Visvesvaraya College of Engineering, Bengaluru
+
+💼 **Experience**: Software Programming Intern at Digicides Marketing Services, where I contributed to interactive dashboard development and enhanced UI/UX experiences
+
+🌟 **Achievements**: Secured top position in 12th grade with 91.8% and built impactful projects like FocusLearn - a personalized learning platform
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 **Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🎨 **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 **Tools & Testing**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🚀 **Other Specializations**
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### 🎯 [FocusLearn - Personalized Learning Platform](https://github.com/asifmohd01/focuslearn)
+**Tech Stack**: React, TailwindCSS, Express.js, MySQL2, JWT
+
+🔹 Solved YouTube learning distractions with custom journey creation  
+🔹 Built rich text editor with note-taking and download features  
+🔹 Implemented real-time progress tracking and journey forking  
+🔹 Automated playlist-to-journey conversion functionality  
+
+### 📱 [Social Media Website](https://github.com/asifmohd01/social-media)
+**Tech Stack**: MERN Stack, TailwindCSS, JWT
+
+🔹 Full-featured social platform with posts, likes, comments, and stories  
+🔹 Real-time interactions and secure JWT authentication  
+🔹 Responsive design with modern UI/UX principles  
+🔹 RESTful API architecture with MongoDB integration  
+
+---
+
+<div align="center">
+
+## 🌐 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,html,css,tailwind,bootstrap,mysql,mongodb,git,github,postman,linux&perline=8" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifmohd3840@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifmohd01)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifmohd01)
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+<img src="https://komarev.com/ghpvc/?username=asifmohd01&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
