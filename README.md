@@ -2,11 +2,10 @@
   
 # Hi there, I'm Asif Mohd! From Jammu👋
 
-<!-- Removed Software Engineer from subtitle and added it as separate line -->
+<!-- Removed Software Engineer line from header -->
 ### 🚀 Recent Graduate | Full-Stack Developer
-### 💻 Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Recent+Graduate+Software+Engineer;Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things;Ready+to+Make+an+Impact!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Recent+Graduate+Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things;Ready+to+Make+an+Impact!" alt="Typing SVG" />
 
 </div>
 
